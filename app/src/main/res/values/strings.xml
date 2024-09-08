@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConnectivityAppCallbackFlow</string>
+    <string name="internet_online">You are online</string>
+    <string name="internet_offline">You are offline</string>
 </resources>
